@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.restgo.health",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.4",
+    "applicationType": "monolith",
+    "baseName": "TwentyOnePoints",
+    "packageName": "com.restgo.health",
+    "packageFolder": "com/restgo/health",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YzBmMzI4MjNjYTllNDQ0MTI2NTgzMDdhM2I2Zjk3MmJkNWNmMmI4NzY0MDMxYjE1M2QzYWFhNTVhY2RkMjc5NGI1ZjkwNDk2ZmVkMTQ0NTJiMTQ1YTBlOTQwMGUxNmVlNzBmZGQ3NGVlOTNiYzg5ZTQ0ODI3YTc1Yjk0ZjUxYmE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1603474448897,
+    "testFrameworks": ["gatling", "protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "ru", "uz-Latn-uz"],
+    "blueprints": []
+  }
+}
